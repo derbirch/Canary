@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Canary</title>
+  <icon>https://the-canary.com/icon.png</icon>
+  <subtitle>Tweet Tech</subtitle>
+  <link href="https://the-canary.com/atom.xml" rel="self"/>
+  
+  <link href="https://the-canary.com/"/>
+  <updated>2024-12-10T18:14:40.919Z</updated>
+  <id>https://the-canary.com/</id>
+  
+  <author>
+    <name>The Canary</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hiby R1 Review: Entry-Level Hi-Fi Player with Rich Features</title>
+    <link href="https://the-canary.com/2024/12/10/Hiby-R1-Review/"/>
+    <id>https://the-canary.com/2024/12/10/Hiby-R1-Review/</id>
+    <published>2024-12-10T05:22:39.000Z</published>
+    <updated>2024-12-10T18:14:40.919Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;em&gt;Affliction Note: Hiby sent this unit for review.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Hiby R1, Hiby’s latest entry-level model for Hi-Fi enthusiasts,</summary>
+        
+      
+    
+    
+    
+    <category term="Review" scheme="https://the-canary.com/categories/Review/"/>
+    
+    
+    <category term="Review" scheme="https://the-canary.com/tags/Review/"/>
+    
+    <category term="Audio" scheme="https://the-canary.com/tags/Audio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Matter 1.4 Launches with Enhanced Multi-Admin and Energy Management Features</title>
+    <link href="https://the-canary.com/2024/11/07/Matter-1-4-Launches-with-Enhanced-Multi-Admin-and-Energy-Management-Features/"/>
+    <id>https://the-canary.com/2024/11/07/Matter-1-4-Launches-with-Enhanced-Multi-Admin-and-Energy-Management-Features/</id>
+    <published>2024-11-07T14:49:17.000Z</published>
+    <updated>2024-11-07T14:55:07.154Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;The Connectivity Standards Alliance (CSA) has announced the launch of &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="News" scheme="https://the-canary.com/categories/News/"/>
+    
+    
+    <category term="Smart Home" scheme="https://the-canary.com/tags/Smart-Home/"/>
+    
+    <category term="Matter" scheme="https://the-canary.com/tags/Matter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bluetti Enters Smart Home Market with Certified Matter Plug</title>
+    <link href="https://the-canary.com/2024/11/07/Bluetti-Enters-Smart-Home-Market-with-Certified-Matter-Plug/"/>
+    <id>https://the-canary.com/2024/11/07/Bluetti-Enters-Smart-Home-Market-with-Certified-Matter-Plug/</id>
+    <published>2024-11-07T14:10:31.000Z</published>
+    <updated>2024-11-07T14:55:16.361Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Bluetti, a major solar generation and power station maker, has a &lt;a href=&quot;https://csa-iot.org/csa_product/smart-plug-29/&quot;&gt;Matter smart</summary>
+        
+      
+    
+    
+    
+    <category term="News" scheme="https://the-canary.com/categories/News/"/>
+    
+    
+    <category term="Smart Home" scheme="https://the-canary.com/tags/Smart-Home/"/>
+    
+    <category term="Matter" scheme="https://the-canary.com/tags/Matter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chinese Lighting Giant FSL to Acquire Yeelight</title>
+    <link href="https://the-canary.com/2024/11/04/Chinese-Lighting-Giant-FSL-to-Acquire-Yeelight/"/>
+    <id>https://the-canary.com/2024/11/04/Chinese-Lighting-Giant-FSL-to-Acquire-Yeelight/</id>
+    <published>2024-11-04T15:31:28.000Z</published>
+    <updated>2024-11-05T11:24:02.466Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Foshan Electrical &amp;amp; Lighting Co., Ltd. (FSL), a China-listed lighting firm has entered into a preliminary agreement to acquire a</summary>
+        
+      
+    
+    
+    
+    <category term="News" scheme="https://the-canary.com/categories/News/"/>
+    
+    
+    <category term="Smart Home" scheme="https://the-canary.com/tags/Smart-Home/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Home Assistant Supports Matter Smoke Sensors and Energy Management</title>
+    <link href="https://the-canary.com/2024/09/27/Home-Assistant-Supports-Matter-Smoke-Sensors-and-Energy-Management/"/>
+    <id>https://the-canary.com/2024/09/27/Home-Assistant-Supports-Matter-Smoke-Sensors-and-Energy-Management/</id>
+    <published>2024-09-26T16:10:22.000Z</published>
+    <updated>2024-09-26T16:17:03.587Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Home Assistant, the leading open-source smart home platform, has released the first beta of its upcoming 2024.10.0 version, introducing</summary>
+        
+      
+    
+    
+    
+    <category term="News" scheme="https://the-canary.com/categories/News/"/>
+    
+    
+    <category term="Smart Home" scheme="https://the-canary.com/tags/Smart-Home/"/>
+    
+    <category term="Matter" scheme="https://the-canary.com/tags/Matter/"/>
+    
+    <category term="Home Assistant" scheme="https://the-canary.com/tags/Home-Assistant/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IFA 2024: Advanced Smart Home Products Unveiled by Aqara, Bosch, and Midea</title>
+    <link href="https://the-canary.com/2024/09/08/IFA-2024-Advanced-Smart-Home-Products-Unveiled-by-Aqara-Bosch-and-Midea/"/>
+    <id>https://the-canary.com/2024/09/08/IFA-2024-Advanced-Smart-Home-Products-Unveiled-by-Aqara-Bosch-and-Midea/</id>
+    <published>2024-09-08T07:58:43.000Z</published>
+    <updated>2024-11-07T14:17:12.256Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;The International Consumer Electronics Fair (IFA) 2024 kicked off on Friday, showcasing groundbreaking smart home products from leading</summary>
+        
+      
+    
+    
+    
+    <category term="News" scheme="https://the-canary.com/categories/News/"/>
+    
+    
+    <category term="Smart Home" scheme="https://the-canary.com/tags/Smart-Home/"/>
+    
+    <category term="Matter" scheme="https://the-canary.com/tags/Matter/"/>
+    
+    <category term="Aqara" scheme="https://the-canary.com/tags/Aqara/"/>
+    
+    <category term="Midea" scheme="https://the-canary.com/tags/Midea/"/>
+    
+    <category term="IFA" scheme="https://the-canary.com/tags/IFA/"/>
+    
+    <category term="NanoLeaf" scheme="https://the-canary.com/tags/NanoLeaf/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Aqara Matter Products Certified By Home Assistant Backer</title>
+    <link href="https://the-canary.com/2024/09/05/Aqara-Matter-Products-Certified-By-Home-Assistant-Backer/"/>
+    <id>https://the-canary.com/2024/09/05/Aqara-Matter-Products-Certified-By-Home-Assistant-Backer/</id>
+    <published>2024-09-04T16:16:01.000Z</published>
+    <updated>2024-09-04T16:18:37.884Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Aqara, a prominent brand in smart home, has &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="News" scheme="https://the-canary.com/categories/News/"/>
+    
+    
+    <category term="Smart Home" scheme="https://the-canary.com/tags/Smart-Home/"/>
+    
+    <category term="Matter" scheme="https://the-canary.com/tags/Matter/"/>
+    
+    <category term="Aqara" scheme="https://the-canary.com/tags/Aqara/"/>
+    
+    <category term="Home Assistant" scheme="https://the-canary.com/tags/Home-Assistant/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IKEA Releases Breaking Matter Update to DIRIGERA Hub</title>
+    <link href="https://the-canary.com/2024/09/04/IKEA-Releases-Breaking-Matter-Update-to-Dirigera-Hub/"/>
+    <id>https://the-canary.com/2024/09/04/IKEA-Releases-Breaking-Matter-Update-to-Dirigera-Hub/</id>
+    <published>2024-09-03T16:35:12.000Z</published>
+    <updated>2024-09-04T05:35:01.258Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Swedish furnishing giant IKEA released a new firmware update on Monday for its DIRIGERA Hub, which greatly extends Matter support for</summary>
+        
+      
+    
+    
+    
+    <category term="Quick Take" scheme="https://the-canary.com/categories/Quick-Take/"/>
+    
+    
+    <category term="Smart Home" scheme="https://the-canary.com/tags/Smart-Home/"/>
+    
+    <category term="Matter" scheme="https://the-canary.com/tags/Matter/"/>
+    
+    <category term="IKEA" scheme="https://the-canary.com/tags/IKEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Zemismart Matter Filament Lightbulb Review</title>
+    <link href="https://the-canary.com/2024/09/01/Zemismart-Matter-Filament-Lightbulb-Review/"/>
+    <id>https://the-canary.com/2024/09/01/Zemismart-Matter-Filament-Lightbulb-Review/</id>
+    <published>2024-09-01T14:09:51.000Z</published>
+    <updated>2024-09-03T16:37:19.278Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Zemismart, initially known for its Tuya-powered products, recently ventured into the expanding market of Matter-enabled smart home</summary>
+        
+      
+    
+    
+    
+    <category term="Review" scheme="https://the-canary.com/categories/Review/"/>
+    
+    
+    <category term="Smart Home" scheme="https://the-canary.com/tags/Smart-Home/"/>
+    
+    <category term="Matter" scheme="https://the-canary.com/tags/Matter/"/>
+    
+    <category term="Review" scheme="https://the-canary.com/tags/Review/"/>
+    
+  </entry>
+  
+</feed>
